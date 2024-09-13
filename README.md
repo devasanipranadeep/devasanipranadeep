@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate with information technology pvt limited companies.
-- 📫 How to reach me on gmail @devasanipranadeep@gmail.com and phone @9100711715
+- 📫 Reach me on gmail @devasanipranadeep@gmail.com and phone @9100711715
 - 😄 Pronouns: He/Him/Mr.
 - ⚡ Fun fact: ...
 
