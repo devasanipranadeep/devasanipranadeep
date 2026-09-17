@@ -30,8 +30,6 @@
   <tr height="85px">
     <th align="center">🚀 Data Science &<br>Machine Learning</th>
     <th align="center">📊 Data Analytics &<br>Visualization</th>
-    <th align="center">⚡ Backend &<br>APIs</th>
-    <th align="center">☁️ Cloud &<br>Deployment</th>
     <th align="center">💾 Databases</th>
     <th align="center">🛠️ Development<br>Tools</th>
   </tr>
